@@ -2,4 +2,9 @@
 # 数量：3条
 DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,cp4.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.fastly-edge.com
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,*.smoot.apple.com
+DOMAIN-SUFFIX,guzzoni.apple.com
 DOMAIN-KEYWORD,apple-relay
